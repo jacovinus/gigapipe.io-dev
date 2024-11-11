@@ -30,7 +30,7 @@ const Docs = () => {
             <HomeFeature
                 frontmatter={{
                     title: "Gigapipe Features",
-                    titleSuffix: "Docs Main Test",
+                    titleSuffix: "Docs Main Tests",
                     features: [
                         {
                             title: "Polyglot",
