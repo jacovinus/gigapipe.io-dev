@@ -39,7 +39,7 @@ export default function Footer() {
       }}>
         <p>&copy; 2024 HEPvest Holding BV</p>
         <div>
-          <a href="/legal" style={{ color: '#e5e7eb', textDecoration: 'none', marginRight: '1rem' }}>Terms</a>
+          <a href="/legal" style={{ color: '#e5e7eb', textDecoration: 'none', marginRight: '1rem' }}>Terms and Conditions</a>
           <a href="/legal/cookies" style={{ color: '#e5e7eb', textDecoration: 'none', marginRight: '1rem' }}>Cookies</a>
           <a href="mailto:info@gigapipe.com" style={{ color: '#e5e7eb', textDecoration: 'none' }}>Contact Us</a>
         </div>
