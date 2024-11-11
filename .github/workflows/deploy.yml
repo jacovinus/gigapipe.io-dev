@@ -1,4 +1,4 @@
-name: Deploy dev Rspress site to Pages
+name: Deploy dev site to Pages
 
 on:
   push:
