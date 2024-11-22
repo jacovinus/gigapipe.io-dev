@@ -80,13 +80,14 @@ export default defineConfig({
             { text: "Plans", link: "pricing" },
             {
                 text: "Product",
-                items: [
-                    { text: "Read", link: "grafana-explore" },
-                    {
-                        text: "Write",
-                        link: "data-ingestion",
-                    },
-                ],
+                link: "product"
+                // items: [
+                //     { text: "Read", link: "grafana-explore" },
+                //     {
+                //         text: "Write",
+                //         link: "data-ingestion",
+                //     },
+                // ],
             },
             { text: "Sign Up", link: "signup" },
             { text: "Docs", link: "docs" },
